@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.cachososa_png.twa",
+        "sha256_cert_fingerprints": ["15:CC:9F:81:3A:AF:CE:2D:D5:5D:6D:87:2E:8B:52:98:CE:B9:51:A2:A9:28:2F:BF:F4:86:B9:BB:4D:81:39:93"]
+      }
+    }]
